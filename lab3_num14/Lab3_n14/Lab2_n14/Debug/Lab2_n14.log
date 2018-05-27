@@ -1,0 +1,5 @@
+﻿  HelpUtils.cpp
+c:\lab3_num14\lab3_n14\lab2_n14\helputils.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\lab3_num14\lab3_n14\lab2_n14\helputils.cpp(84): warning C4566: character represented by universal-character-name '\u008F' cannot be represented in the current code page (1251)
+  Lab2_n14.vcxproj -> C:\lab3_num14\Lab3_n14\Debug\Lab2_n14.exe
+  Lab2_n14.vcxproj -> C:\lab3_num14\Lab3_n14\Debug\Lab2_n14.pdb (Partial PDB)
